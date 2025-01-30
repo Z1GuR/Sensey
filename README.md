@@ -1,2 +1,2 @@
 # Sensey
-Sens
+Sens.web
